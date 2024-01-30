@@ -1,0 +1,10 @@
+ipykernel
+langchain
+openai
+huggingface_hub
+unstructured
+python-dotenv
+tiktoken
+faiss-cpu
+sentence_transformers
+unstructured[pdf]
