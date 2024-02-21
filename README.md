@@ -1,4 +1,4 @@
-# ChatterGen: Your Interactive Chatbot Powered by GenAI
+#  ChatterGen - Interactive Chatbot Powered by GenAI
 # Overview
 ChatterGen is an interactive chatbot created using GenAI technology. It leverages advanced language models to provide intelligent responses to user queries and engage in meaningful conversations. The chatbot utilizes GenAI's powerful natural language processing capabilities to understand and generate human-like responses, making interactions more intuitive and engaging.
 
