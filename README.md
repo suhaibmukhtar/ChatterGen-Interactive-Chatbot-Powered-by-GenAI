@@ -35,5 +35,5 @@ Improve question answering capabilities and response accuracy through model fine
 Suhaib Mukhtar
 ## Contact
 suhaibmukhtar2@gmail.com<br>
-https://www.linkedin.com/in/suhaib-mukhtar-63777b217
+https://www.linkedin.com/in/suhaib-mukhtar-63777b217<br>
 Provide contact information for support or inquiries.
